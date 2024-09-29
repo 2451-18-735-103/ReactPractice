@@ -1,0 +1,3 @@
+[submodule "binding-examples"]
+	path = binding-examples
+	url = https://github.com/2451-18-735-103/ReactPractice.git
